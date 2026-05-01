@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://kognetic.space/favicon.ico" alt="Kognetic" width="72" height="72" />
+<img src="./Icon.png" alt="Kognetic" width="72" height="72" />
 
 <br />
 <br />
